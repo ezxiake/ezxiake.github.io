@@ -44,4 +44,4 @@ $$
 $$
 ```
 
-[asdasdasd](https://github.com/ezxiake/ezxiake.github.io/blob/master/_posts/2009-04-26-barcamp-boston-4-roundup.textile)
+[asdasdasd](https://github.com/ezxiake/ezxiake.github.io/blob/master/_posts/2009-04-26-barcamp-boston-4-roundup.md)
